@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @JasmineElm
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# About Me
 
-<!---
-JasmineElm/JasmineElm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I am James Lemin.  I like #bash, #markdown and #python.
+
+You can find me on [my blog](https://james-lemin.com/), [LinkedIn](https://uk.linkedin.com/in/james-lemin-4a7028a5), or [Twitter](https://twitter.com/Jasmine_Elm)
